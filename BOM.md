@@ -1,0 +1,5 @@
+- 1x  Seeed XIAO RP2040
+- 1x  0.91 inch OLED display
+- 16x MX-Style switches
+- 16x Through-hole 1N4148 Diodes
+- 16x Blank DSA keycaps 
