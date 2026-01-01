@@ -52,7 +52,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|79430000|42566000|01ab4b8f-16d2-4580-a743-6bea9be5f203|9de2ddb7-dedb-4775-b64f-c63fc872ef34",
+          ""
+        ],
+        [
+          "silk_edge_clearance|83885324|42500000|01ab4b8f-16d2-4580-a743-6bea9be5f203|ba1e5e5f-aec5-444a-a61e-c04b8d12a0e6",
+          ""
+        ],
+        [
+          "silk_edge_clearance|92884000|42500000|01ab4b8f-16d2-4580-a743-6bea9be5f203|92ec8acf-d633-4486-82a3-9d222f5d20a1",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -487,7 +500,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Final/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "hackpad.step",
